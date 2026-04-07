@@ -1,0 +1,41 @@
+customer_id,age,gender,annual_income,spending_score,purchase_frequency,Last_purchase_days,city
+1,22,Female,32000,81,14,7,New York
+2,35,Male,54000,43,9,18,Los Angeles
+3,28,Female,61000,67,11,12,Chicago
+4,41,Male,78000,25,6,45,Houston
+5,19,Female,25000,89,18,3,Phoenix
+6,33,Male,47000,52,10,21,Philadelphia
+7,,Female,39000,74,13,9,San Antonio
+8,48,Male,92000,18,4,60,San Diego
+9,30,Female,68000,61,12,15,Dallas
+10,,Male,36000,77,15,8,San Jose
+11,52,Female,105000,22,3,72,Austin
+12,37,Male,59000,48,8,24,Jacksonville
+13,29,Female,72000,69,12,11,Fort Worth
+14,,Male,84000,31,5,39,Columbus
+15,21,Female,28000,92,20,2,Charlotte
+16,34,Male,51000,55,10,17,San Francisco
+17,27,Female,43000,63,11,14,Indianapolis
+18,39,Male,76000,36,7,28,Seattle
+19,23,Female,34000,85,16,5,Denver
+20,50,Male,98000,27,4,54,Washington
+21,31,Female,65000,58,10,16,Boston
+22,42,Male,87000,41,6,33,El Paso
+23,25,Female,41000,71,13,10,Detroit
+24,46,Male,93000,29,4,48,Nashville
+25,38,Female,71000,60,11,13,Memphis
+26,20,Male,30000,88,19,4,Portland
+27,55,Female,112000,19,2,80,Las Vegas
+28,32,Male,56000,47,9,22,Louisville
+29,44,Female,89000,33,5,37,Baltimore
+30,27,Male,45000,76,14,8,Milwaukee
+31,36,Female,62000,57,10,19,Albuquerque
+32,49,Male,101000,24,3,68,Tucson
+33,24,Female,37000,83,17,6,Fresno
+34,40,Male,81000,38,6,31,Sacramento
+35,29,Female,69000,66,12,12,Kansas City
+36,53,Male,97000,21,4,77,Atlanta
+37,22,Female,29000,90,18,3,Miami
+38,43,Male,86000,35,5,42,Colorado Springs
+39,33,Female,58000,54,9,20,Raleigh
+40,47,Male,94000,28,4,50,Omaha
